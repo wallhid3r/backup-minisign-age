@@ -91,7 +91,7 @@ handling before it can be used; these were not completed in the original project
 
 ## Source
 
-The Polish script names and workflow were reconstructed from the PDF screenshots.
+The Polish script names and workflow.
 The backup script combines the shown signing logs, restoration test and rotation.
 Logging calls follow the report's described final version. The data generator was
 recreated from the documented file count, sizes and filenames because its source
