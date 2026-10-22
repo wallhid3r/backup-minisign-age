@@ -1,0 +1,22 @@
+# Generated project files and private keys
+/dane/
+/backupy/
+/klucze/
+/logi/
+/pliki_tymczasowe/
+/test/
+
+# Local source material and earlier project version
+/old/
+/SS BSO/
+/SS BSO.zip
+/*.pdf
+/*.docx
+/zapisz_log.sh
+/tmp/
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
